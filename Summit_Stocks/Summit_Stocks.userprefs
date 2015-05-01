@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Summit_Stocks.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resources\values\Strings.xml">
+    <Files>
+      <File FileName="MainActivity.cs" Line="14" Column="3" />
+      <File FileName="Resources\values\Strings.xml" Line="7" Column="26" />
+      <File FileName="GlobalVariables.cs" Line="19" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Summit__Stocks AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

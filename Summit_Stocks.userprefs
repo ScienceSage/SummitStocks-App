@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Summit_Stocks\Summit_Stocks.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.TA8900BANG" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Summit_Stocks\MainActivity.cs">
+    <Files>
+      <File FileName="Summit_Stocks\MainActivity.cs" Line="41" Column="23" />
+      <File FileName="Summit_Stocks\Resources\Resource.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Summit_Stocks" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Assets" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+            </Node>
+            <Node name="MainActivity.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Summit__Stocks AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
