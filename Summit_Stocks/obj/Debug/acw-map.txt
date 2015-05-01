@@ -1,0 +1,5 @@
+Summit_Stocks.MainActivity;summit_stocks.MainActivity
+Summit_Stocks.Simulator;summit_stocks.Simulator
+Summit_Stocks.Extra;summit_stocks.Extra
+Summit_Stocks.TestResults;summit_stocks.TestResults
+Summit_Stocks.Ticker;summit_stocks.Ticker

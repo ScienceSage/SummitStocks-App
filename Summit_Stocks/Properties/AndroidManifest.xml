@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Summit_Stocks.Summit_Stocks">
+	<uses-sdk />
+	<application android:label="Summit_Stocks"></application>
+</manifest>
